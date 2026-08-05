@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Otavio" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=250&section=header&text=Otávio%20Luiz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20JavaScript%20|%20Vue.js&descAlignY=60"/>
 </p>
 
 **`Desenvolvedor Front-end`**
