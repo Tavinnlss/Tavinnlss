@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=250&section=header&text=Otávio%20Luiz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20JavaScript%20|%20Vue.js&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=250&section=header&text=Otávio%20Luiz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20&descAlignY=60"/>
 </p>
 
 **`Desenvolvedor Front-end`**
