@@ -15,12 +15,14 @@ Desenvolvedor focado em criar aplicações web e desktop, resolver problemas atr
 ## 🎨 Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,corel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-## 🛠️ Tecnologias (Estudando)
+## 🚀 Tecnologias (Estudando)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,vuetify,vite,docker,nodejs,electron,sqlite,mongodb,react" />
