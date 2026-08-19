@@ -21,7 +21,7 @@ Desenvolvedor focado em criar aplicações web e desktop, resolver problemas atr
 
 ---
 
-## 💎 Diferencias 
+## 💎 Diferencias e ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
