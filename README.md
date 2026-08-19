@@ -11,9 +11,9 @@ Desenvolvedor focado em criar aplicações web e desktop, resolver problemas atr
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git" />
 </p>
----
 
-## 🚀 Tecnologias (Estudando)
+
+## Estudando
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,vuetify,vite,docker,nodejs,electron,sqlite,mongodb,react" />
