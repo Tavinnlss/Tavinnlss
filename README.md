@@ -9,7 +9,7 @@ Desenvolvedor focado em criar aplicações web e desktop, resolver problemas atr
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,npm" />
 </p>
 
 
@@ -27,6 +27,11 @@ Desenvolvedor focado em criar aplicações web e desktop, resolver problemas atr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/notion/000000" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/cursor/000000" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/openai/000000" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45"/>
 </p>
 
 ---
