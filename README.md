@@ -9,7 +9,15 @@ Desenvolvedor focado em criar aplicações web e desktop, resolver problemas atr
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs,electron,sqlite,vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+</p>
+
+---
+
+## 🛠️ Tecnologias (Estudando)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,electron,sqlite,vite" />
 </p>
 
 ---
